@@ -121,10 +121,10 @@ Once a decision has been made to accept and curate Jupyter Notebook submissions 
 The following decision trees illustrate questions and actions that should be considered when determining whether or not to accept a Jupyter Notebook submission into a particular repository, as well key questions curators should consider when evaluating Jupyter Notebook submissions. The decision trees can also be viewed [here](https://www.lucidchart.com/documents/view/4848c483-1267-499c-9172-3a2782abfaaf/0).
 
 #### Repository Suitability
-![Repository Suitability - example](https://raw.githubusercontent.com/CfA-Library/Collaborations/master/Jupyter_Primer_2019/images/example_flow_jupyer_Suitabilitiy.png)
+![Repository Suitability - example](https://raw.githubusercontent.com/dbouquin/Jupyter_Primer_2019/master/images/example_flow_jupyer_Suitability.png)
 
 #### Curatorial Activities
-![Curatorial Activities - example](https://raw.githubusercontent.com/CfA-Library/Collaborations/master/Jupyter_Primer_2019/images/example_flow_jupyer_Curation.png)
+![Curatorial Activities - example](https://raw.githubusercontent.com/dbouquin/Jupyter_Primer_2019/master/images/example_flow_jupyer_Curation.png)
 
 #### Additional Recommended Reading
 * [Software Deposit Guidance for Researchers](https://zenodo.org/record/1327310)
