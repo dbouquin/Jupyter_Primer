@@ -46,6 +46,7 @@ The following elements outline recommendations for repositories accepting Jupyte
 * .ipynb (cells run with results viewable)
 * README (.txt or .md)
 * LICENSE (.txt or .md)
+
 *Additional files to request:*
 * PDF of the Jupyter Notebook (export from Jupyter web application or nbviewer)
 * reST export of the Jupyter Notebook (export from Jupyter web application)
